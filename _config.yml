@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chen Gong\n(公辰)"
-description              : "Ph.D. Candidate (2022-Now) at ANL Lab, Department of Computer Science and Engineering, Shanghai Jiao Tong University"
-repository               : "gongchenooo/gongchenooo.github.io"
+title                    : "Rong Ding\n(丁榕)"
+description              : "Ph.D. Candidate (2021-Now) at Department of Computer Science and Engineering, Shanghai Jiao Tong University"
+repository               : "Dingrong123/RongDing.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chen Gong (公辰)"
-  avatar           : "images/gongchen-photo.JPG"
+  name             : "Rong Ding (丁榕)"
+  avatar           : "images/.JPG"
   bio              : 
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=&user=HmEvi20AAAAJ"
-  email            : "gongchen@sjtu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Chen_Gong43"
+  googlescholar    : "https://scholar.google.com/citations?user=nbctAEIAAAAJ"
+  email            : "dingrong@sjtu.edu.cn"
+  researchgate     : ""
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gongchenooo" # e.g., "github username"
+  github           : "Dingrong123" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/21/8587-6.html"# e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-0333-6418" # e.g., "https://orcid.org/xxxx"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1514-435X" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

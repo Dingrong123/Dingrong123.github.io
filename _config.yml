@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Rong Ding\n(丁榕)"
+title                    : "Rong Ding"
 description              : "Ph.D. Candidate (2021-Now) at Department of Computer Science and Engineering, Shanghai Jiao Tong University"
 repository               : "Dingrong123/RongDing.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Rong Ding (丁榕)"
+  name             : "Rong Ding"
   avatar           : "RongDing.jpg"
   bio              : 
   location         : "Shanghai, China"

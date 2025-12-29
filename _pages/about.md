@@ -43,9 +43,7 @@ My research interest focuses on *<u>Wireless-Enpowered Intelligent Systems</u>*.
 
 
 # 📝 Selected Publications 
-- <div class="pubtitle">ACM MobiCom'25</div> &nbsp; <b>[Bluetooth-Enabled Transparent RF Sensing](https://dl.acm.org/doi/10.1145/3680207.3723468).</b> <u><b>Rong Ding</b></u>, Haiming Jin, Ningzhi Zhu, Zijie Chen, Yi Fu, Fengyuan Zhu, Guiyun Fan, Xiaohua
-Tian, Linghe Kong. <i>Proceedings of the ACM Annual International
-Conference on Mobile Computing and Networking, 2025.</i> <b><font color="#BD666D">CCF-A.</font></b> [paper](https://github.com/Dingrong123/HomePage/blob/main/MOBICOM25.pdf)
+- <div class="pubtitle">ACM MobiCom'25</div> &nbsp; <b>[Bluetooth-Enabled Transparent RF Sensing](https://dl.acm.org/doi/10.1145/3680207.3723468).</b> <u><b>Rong Ding</b></u>, Haiming Jin, Ningzhi Zhu, Zijie Chen, Yi Fu, Fengyuan Zhu, Guiyun Fan, Xiaohua Tian, Linghe Kong. <i>Proceedings of the ACM Annual International Conference on Mobile Computing and Networking, 2025.</i> <b><font color="#BD666D">CCF-A.</font></b> [paper](https://github.com/Dingrong123/HomePage/blob/main/MOBICOM25.pdf)
 
 - <div class="pubtitle">ACM SenSys'23</div> &nbsp; <b>[Push the Limit of Single-Chip mmWave Radar-Based Egomotion Estimation with Moving Objects in FoV](https://dl.acm.org/doi/abs/10.1145/3625687.3625795).</b> <u><b>Rong Ding</b></u>, Haiming Jin, Jianrong Ding, Xiaocheng Wang, Guiyun Fan, Fengyuan Zhu, Xiaohua Tian, Linghe Kong. <i>ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems, 2023.</i> <b><font color="#BD666D">CCF-B.</font></b> [paper](https://github.com/Dingrong123/HomePage/blob/main/SenSys23.pdf)
 

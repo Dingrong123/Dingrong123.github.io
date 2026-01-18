@@ -35,7 +35,7 @@ redirect_from:
 
 I'm currently a Ph.D. student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Haiming Jin(金海明)](https://www.cs.sjtu.edu.cn/~jinhaiming/). 
 
-My research interest focuses on *<u>Wireless-Enpowered Intelligent Systems</u>*. Specifically, the long term goal of my research is to develop innovative wireless sensing, communication, and AI techniques that enhance the intelligence of mobile systems for better serving our lives. 
+My research interest focuses on *<u>Wireless Signal-Enpowered Intelligent Systems</u>*. Specifically, the long term goal of my research is to develop innovative wireless sensing, communication, and AI techniques that enhance the intelligence of mobile systems for better serving our lives. 
 
 # 📖 Education
 - *2021.09 - Now*, Ph.D. Student, Computer Science, Shanghai Jiao Tong University. 

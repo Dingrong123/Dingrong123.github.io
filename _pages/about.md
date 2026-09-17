@@ -33,13 +33,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a Ph.D. student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Haiming Jin(金海明)](https://www.cs.sjtu.edu.cn/~jinhaiming/). 
+I'm currently a post-doctoral fellow at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), advised by [Prof. Mo Li(李默)](http://home.cse.ust.hk/~lim/). Before that, I obtained by Ph.D. and Bachelor degree at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by [Prof. Haiming Jin(金海明)](https://www.cs.sjtu.edu.cn/~jinhaiming/). 
 
-My research interest focuses on *<u>Wireless Signal-Enpowered Intelligent Systems</u>*. Specifically, the long term goal of my research is to develop innovative wireless sensing, communication, and AI techniques that enhance the intelligence of mobile systems for better serving our lives. 
+My research interest focuses on *<u>Wireless Intelligent Systems</u>*. Specifically, the long term goal of my research is to develop innovative wireless sensing, communication, and AI techniques that enhance the intelligence of mobile systems for better serving our lives. 
 
 # 📖 Education
-- *2021.09 - Now*, Ph.D. Student, Computer Science, Shanghai Jiao Tong University. 
-- *2017.09 - 2021.06*, Bachelor, Computer Science (Honored), Shanghai Jiao Tong University.
+- *2026.07 - Now*, post-doctoral fellow, CSE, The Hong Kong University of Science and Technology. 
+- *2021.09 - 2026.06*, Ph.D., CSE, Shanghai Jiao Tong University. 
+- *2017.09 - 2021.06*, Bachelor,CSE (Honored), Shanghai Jiao Tong University.
 
 
 # 📝 Selected Publications 

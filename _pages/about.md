@@ -40,7 +40,7 @@ My research interest focuses on *<u>Wireless and Intelligent Mobile Systems</u>*
 # 📖 Education
 - *2026.07 - Now*, post-doctoral fellow, CSE, The Hong Kong University of Science and Technology. 
 - *2021.09 - 2026.06*, Ph.D., CSE, Shanghai Jiao Tong University. 
-- *2017.09 - 2021.06*, Bachelor,CSE (Honored), Shanghai Jiao Tong University.
+- *2017.09 - 2021.06*, Bachelor, CSE (Honored), Shanghai Jiao Tong University.
 
 
 # 📝 Selected Publications 

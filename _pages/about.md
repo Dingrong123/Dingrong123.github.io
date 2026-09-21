@@ -45,7 +45,7 @@ My research interest focuses on *<u>Wireless and Intelligent Mobile Systems</u>*
 
 # 📝 Selected Publications 
 
-- <div class="pubtitle">ACM MobiCom'26</div> &nbsp; <b>[Spatially Selective Radar Backscatter Communication].</b> <u><b>Rong Ding</b></u>, Haiming Jin, Ruoyan Wang, Zijie Chen, Guiyun Fan, Feng Shen, Lu Su, Xiaohua Tian, Linghe Kong, Guihai Chen. <i>Proceedings of the ACM Annual International Conference on Mobile Computing and Networking, 2026.</i> <b><font color="#BD666D">CCF-A.</font></b> 
+- <div class="pubtitle">ACM MobiCom'26</div> &nbsp; <b>Spatially Selective Radar Backscatter Communication.</b> <u><b>Rong Ding</b></u>, Haiming Jin, Ruoyan Wang, Zijie Chen, Guiyun Fan, Feng Shen, Lu Su, Xiaohua Tian, Linghe Kong, Guihai Chen. <i>Proceedings of the ACM Annual International Conference on Mobile Computing and Networking, 2026.</i> <b><font color="#BD666D">CCF-A.</font></b> 
 
 - <div class="pubtitle">ACM MobiCom'25</div> &nbsp; <b>[Bluetooth-Enabled Transparent RF Sensing](https://dl.acm.org/doi/10.1145/3680207.3723468).</b> <u><b>Rong Ding</b></u>, Haiming Jin, Ningzhi Zhu, Zijie Chen, Yi Fu, Fengyuan Zhu, Guiyun Fan, Xiaohua Tian, Linghe Kong. <i>Proceedings of the ACM Annual International Conference on Mobile Computing and Networking, 2025.</i> <b><font color="#BD666D">CCF-A.</font></b> [[paper](https://dingrong123.github.io/assets/pdf/MOBICOM25.pdf)]
 
